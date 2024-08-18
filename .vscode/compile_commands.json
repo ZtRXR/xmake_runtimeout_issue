@@ -1,6 +1,0 @@
-[
-{
-  "directory": "d:\\dev\\cpp\\xmake_runtimeout_issue",
-  "arguments": ["D:\\app\\vside\\ide\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/O2", "/EHsc", "/DNDEBUG", "/Fobuild\\.objs\\xmake_runtimeout_issue\\windows\\x64\\release\\src\\main.cpp.obj", "src\\main.cpp", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\cppwinrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\shared", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\um", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\winrt", "-imsvc", "D:\\app\\vside\\ide\\VC\\Tools\\MSVC\\14.39.33519\\include"],
-  "file": "src\\main.cpp"
-}]
